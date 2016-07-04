@@ -1,4 +1,4 @@
-Output snapshot lookis like below.
+Output snapshot looks like below.
 This is the solution for exercise problem 15.2.1 of coreman algorithms
 
 Enter number of matrices:n: 6
@@ -16,4 +16,5 @@ Enter 5 Matrix size: 5 50
 Enter 6 Matrix size: 50 6
 
 Number of multiplications needed : 2010
+
 Matrix order is: ((A1A2)((A3A4)(A5A6)))
